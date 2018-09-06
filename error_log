@@ -1,0 +1,61 @@
+[12-Jun-2018 01:44:49 UTC] PHP Warning:  opendir(myToken): failed to open dir: No such file or directory in /home/bottersking/public_html/abdulsworld.xyz/sticker/index.php on line 13
+[12-Jun-2018 01:44:49 UTC] PHP Warning:  readdir() expects parameter 1 to be resource, boolean given in /home/bottersking/public_html/abdulsworld.xyz/sticker/index.php on line 14
+[12-Jun-2018 01:44:49 UTC] PHP Warning:  file_get_contents(): http:// wrapper is disabled in the server configuration by allow_url_fopen=0 in /home/bottersking/public_html/abdulsworld.xyz/sticker/index.php on line 61
+[12-Jun-2018 01:44:49 UTC] PHP Warning:  file_get_contents(http://abdulsworld.xyz/user.php): failed to open stream: no suitable wrapper could be found in /home/bottersking/public_html/abdulsworld.xyz/sticker/index.php on line 61
+[12-Jun-2018 01:44:49 UTC] PHP Warning:  opendir(myToken): failed to open dir: No such file or directory in /home/bottersking/public_html/abdulsworld.xyz/sticker/user.php on line 2
+[12-Jun-2018 01:44:49 UTC] PHP Warning:  readdir() expects parameter 1 to be resource, boolean given in /home/bottersking/public_html/abdulsworld.xyz/sticker/user.php on line 3
+[12-Jun-2018 01:49:29 UTC] PHP Warning:  opendir(SH4D0W): failed to open dir: No such file or directory in /home/bottersking/public_html/abdulsworld.xyz/sticker/index.php on line 13
+[12-Jun-2018 01:49:29 UTC] PHP Warning:  readdir() expects parameter 1 to be resource, boolean given in /home/bottersking/public_html/abdulsworld.xyz/sticker/index.php on line 14
+[12-Jun-2018 01:49:29 UTC] PHP Warning:  file_get_contents(): http:// wrapper is disabled in the server configuration by allow_url_fopen=0 in /home/bottersking/public_html/abdulsworld.xyz/sticker/index.php on line 61
+[12-Jun-2018 01:49:29 UTC] PHP Warning:  file_get_contents(http://abdulsworld.xyz/user.php): failed to open stream: no suitable wrapper could be found in /home/bottersking/public_html/abdulsworld.xyz/sticker/index.php on line 61
+[12-Jun-2018 01:49:29 UTC] PHP Warning:  opendir(myToken): failed to open dir: No such file or directory in /home/bottersking/public_html/abdulsworld.xyz/sticker/user.php on line 2
+[12-Jun-2018 01:49:29 UTC] PHP Warning:  readdir() expects parameter 1 to be resource, boolean given in /home/bottersking/public_html/abdulsworld.xyz/sticker/user.php on line 3
+[12-Jun-2018 01:49:31 UTC] PHP Warning:  opendir(SH4D0W): failed to open dir: No such file or directory in /home/bottersking/public_html/abdulsworld.xyz/sticker/index.php on line 13
+[12-Jun-2018 01:49:31 UTC] PHP Warning:  readdir() expects parameter 1 to be resource, boolean given in /home/bottersking/public_html/abdulsworld.xyz/sticker/index.php on line 14
+[12-Jun-2018 01:49:31 UTC] PHP Warning:  file_get_contents(): http:// wrapper is disabled in the server configuration by allow_url_fopen=0 in /home/bottersking/public_html/abdulsworld.xyz/sticker/index.php on line 61
+[12-Jun-2018 01:49:31 UTC] PHP Warning:  file_get_contents(http://abdulsworld.xyz/user.php): failed to open stream: no suitable wrapper could be found in /home/bottersking/public_html/abdulsworld.xyz/sticker/index.php on line 61
+[12-Jun-2018 01:49:31 UTC] PHP Warning:  opendir(myToken): failed to open dir: No such file or directory in /home/bottersking/public_html/abdulsworld.xyz/sticker/user.php on line 2
+[12-Jun-2018 01:49:31 UTC] PHP Warning:  readdir() expects parameter 1 to be resource, boolean given in /home/bottersking/public_html/abdulsworld.xyz/sticker/user.php on line 3
+[12-Jun-2018 01:49:50 UTC] PHP Warning:  opendir(SH4D0W): failed to open dir: No such file or directory in /home/bottersking/public_html/abdulsworld.xyz/sticker/index.php on line 13
+[12-Jun-2018 01:49:50 UTC] PHP Warning:  readdir() expects parameter 1 to be resource, boolean given in /home/bottersking/public_html/abdulsworld.xyz/sticker/index.php on line 14
+[12-Jun-2018 01:49:50 UTC] PHP Warning:  file_get_contents(): http:// wrapper is disabled in the server configuration by allow_url_fopen=0 in /home/bottersking/public_html/abdulsworld.xyz/sticker/index.php on line 61
+[12-Jun-2018 01:49:50 UTC] PHP Warning:  file_get_contents(http://abdulsworld.xyz/user.php): failed to open stream: no suitable wrapper could be found in /home/bottersking/public_html/abdulsworld.xyz/sticker/index.php on line 61
+[12-Jun-2018 01:49:50 UTC] PHP Warning:  opendir(myToken): failed to open dir: No such file or directory in /home/bottersking/public_html/abdulsworld.xyz/sticker/user.php on line 2
+[12-Jun-2018 01:49:50 UTC] PHP Warning:  readdir() expects parameter 1 to be resource, boolean given in /home/bottersking/public_html/abdulsworld.xyz/sticker/user.php on line 3
+[12-Jun-2018 01:55:43 UTC] PHP Warning:  opendir(SH4D0W): failed to open dir: No such file or directory in /home/bottersking/public_html/abdulsworld.xyz/sticker/index.php on line 13
+[12-Jun-2018 01:55:43 UTC] PHP Warning:  readdir() expects parameter 1 to be resource, boolean given in /home/bottersking/public_html/abdulsworld.xyz/sticker/index.php on line 14
+[12-Jun-2018 01:55:43 UTC] PHP Warning:  opendir(myToken): failed to open dir: No such file or directory in /home/bottersking/public_html/abdulsworld.xyz/sticker/user.php on line 2
+[12-Jun-2018 01:55:43 UTC] PHP Warning:  readdir() expects parameter 1 to be resource, boolean given in /home/bottersking/public_html/abdulsworld.xyz/sticker/user.php on line 3
+[12-Jun-2018 01:55:47 UTC] PHP Warning:  file_get_contents(): http:// wrapper is disabled in the server configuration by allow_url_fopen=0 in /home/bottersking/public_html/abdulsworld.xyz/sticker/index.php on line 61
+[12-Jun-2018 01:55:47 UTC] PHP Warning:  file_get_contents(http://abdulsworld.xyz/user.php): failed to open stream: no suitable wrapper could be found in /home/bottersking/public_html/abdulsworld.xyz/sticker/index.php on line 61
+[12-Jun-2018 01:55:47 UTC] PHP Warning:  opendir(myToken): failed to open dir: No such file or directory in /home/bottersking/public_html/abdulsworld.xyz/sticker/user.php on line 2
+[12-Jun-2018 01:55:47 UTC] PHP Warning:  readdir() expects parameter 1 to be resource, boolean given in /home/bottersking/public_html/abdulsworld.xyz/sticker/user.php on line 3
+[12-Jun-2018 01:55:49 UTC] PHP Warning:  file_get_contents(): http:// wrapper is disabled in the server configuration by allow_url_fopen=0 in /home/bottersking/public_html/abdulsworld.xyz/sticker/index.php on line 61
+[12-Jun-2018 01:55:49 UTC] PHP Warning:  file_get_contents(http://abdulsworld.xyz/user.php): failed to open stream: no suitable wrapper could be found in /home/bottersking/public_html/abdulsworld.xyz/sticker/index.php on line 61
+[12-Jun-2018 01:55:49 UTC] PHP Warning:  opendir(myToken): failed to open dir: No such file or directory in /home/bottersking/public_html/abdulsworld.xyz/sticker/user.php on line 2
+[12-Jun-2018 01:55:49 UTC] PHP Warning:  readdir() expects parameter 1 to be resource, boolean given in /home/bottersking/public_html/abdulsworld.xyz/sticker/user.php on line 3
+[12-Jun-2018 01:57:12 UTC] PHP Parse error:  syntax error, unexpected ''ðŸ˜' (T_ENCAPSED_AND_WHITESPACE), expecting ')' in /home/bottersking/public_html/abdulsworld.xyz/sticker/cronjob.php on line 64
+[12-Jun-2018 01:57:32 UTC] PHP Parse error:  syntax error, unexpected ''ðŸ˜' (T_ENCAPSED_AND_WHITESPACE), expecting ')' in /home/bottersking/public_html/abdulsworld.xyz/sticker/cronjob.php on line 64
+[12-Jun-2018 01:58:01 UTC] PHP Parse error:  syntax error, unexpected ''ðŸ˜' (T_ENCAPSED_AND_WHITESPACE), expecting ')' in /home/bottersking/public_html/abdulsworld.xyz/sticker/cronjob.php on line 64
+[12-Jun-2018 01:58:16 UTC] PHP Parse error:  syntax error, unexpected ''ðŸ˜' (T_ENCAPSED_AND_WHITESPACE), expecting ')' in /home/bottersking/public_html/abdulsworld.xyz/sticker/cronjob.php on line 64
+[12-Jun-2018 02:01:21 UTC] PHP Fatal error:  Call to undefined function xx() in /home/bottersking/public_html/abdulsworld.xyz/sticker/cronjob.php on line 19
+[12-Jun-2018 02:02:06 UTC] PHP Fatal error:  Call to undefined function xx() in /home/bottersking/public_html/abdulsworld.xyz/sticker/cronjob.php on line 19
+[12-Jun-2018 02:02:59 UTC] PHP Fatal error:  Call to undefined function xx() in /home/bottersking/public_html/abdulsworld.xyz/sticker/cronjob.php on line 19
+[12-Jun-2018 02:11:01 UTC] PHP Warning:  file_get_contents(): http:// wrapper is disabled in the server configuration by allow_url_fopen=0 in /home/bottersking/public_html/abdulsworld.xyz/sticker/index.php on line 61
+[12-Jun-2018 02:11:01 UTC] PHP Warning:  file_get_contents(http://abdulsworld.xyz/user.php): failed to open stream: no suitable wrapper could be found in /home/bottersking/public_html/abdulsworld.xyz/sticker/index.php on line 61
+[12-Jun-2018 03:24:42 UTC] PHP Warning:  file_get_contents(): http:// wrapper is disabled in the server configuration by allow_url_fopen=0 in /home/bottersking/public_html/selfmention/index.php on line 61
+[12-Jun-2018 03:24:42 UTC] PHP Warning:  file_get_contents(http://bottersking.xyz/user.php): failed to open stream: no suitable wrapper could be found in /home/bottersking/public_html/selfmention/index.php on line 61
+[12-Jun-2018 03:24:46 UTC] PHP Warning:  file_get_contents(): http:// wrapper is disabled in the server configuration by allow_url_fopen=0 in /home/bottersking/public_html/selfmention/index.php on line 61
+[12-Jun-2018 03:24:46 UTC] PHP Warning:  file_get_contents(http://bottersking.xyz/user.php): failed to open stream: no suitable wrapper could be found in /home/bottersking/public_html/selfmention/index.php on line 61
+[12-Jun-2018 08:32:19 UTC] PHP Warning:  file_get_contents(): http:// wrapper is disabled in the server configuration by allow_url_fopen=0 in /home/bottersking/public_html/selfmention/index.php on line 61
+[12-Jun-2018 08:32:19 UTC] PHP Warning:  file_get_contents(http://bottersking.xyz/user.php): failed to open stream: no suitable wrapper could be found in /home/bottersking/public_html/selfmention/index.php on line 61
+[12-Jun-2018 08:32:23 UTC] PHP Warning:  file_get_contents(): http:// wrapper is disabled in the server configuration by allow_url_fopen=0 in /home/bottersking/public_html/selfmention/index.php on line 61
+[12-Jun-2018 08:32:23 UTC] PHP Warning:  file_get_contents(http://bottersking.xyz/user.php): failed to open stream: no suitable wrapper could be found in /home/bottersking/public_html/selfmention/index.php on line 61
+[12-Jun-2018 09:55:55 UTC] PHP Warning:  file_get_contents(): http:// wrapper is disabled in the server configuration by allow_url_fopen=0 in /home/bottersking/public_html/selfmention/index.php on line 61
+[12-Jun-2018 09:55:55 UTC] PHP Warning:  file_get_contents(http://bottersking.xyz/user.php): failed to open stream: no suitable wrapper could be found in /home/bottersking/public_html/selfmention/index.php on line 61
+[12-Jun-2018 10:26:07 UTC] PHP Warning:  file_get_contents(): http:// wrapper is disabled in the server configuration by allow_url_fopen=0 in /home/bottersking/public_html/selfmention/index.php on line 61
+[12-Jun-2018 10:26:07 UTC] PHP Warning:  file_get_contents(http://bottersking.xyz/user.php): failed to open stream: no suitable wrapper could be found in /home/bottersking/public_html/selfmention/index.php on line 61
+[12-Jun-2018 14:27:33 UTC] PHP Warning:  file_get_contents(): http:// wrapper is disabled in the server configuration by allow_url_fopen=0 in /home/bottersking/public_html/selfmention/index.php on line 61
+[12-Jun-2018 14:27:33 UTC] PHP Warning:  file_get_contents(http://www.bottersking.xyz/user.php): failed to open stream: no suitable wrapper could be found in /home/bottersking/public_html/selfmention/index.php on line 61
+[12-Jun-2018 14:27:34 UTC] PHP Warning:  file_get_contents(): http:// wrapper is disabled in the server configuration by allow_url_fopen=0 in /home/bottersking/public_html/selfmention/index.php on line 61
+[12-Jun-2018 14:27:34 UTC] PHP Warning:  file_get_contents(http://www.bottersking.xyz/user.php): failed to open stream: no suitable wrapper could be found in /home/bottersking/public_html/selfmention/index.php on line 61
